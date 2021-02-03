@@ -40,6 +40,13 @@ body{
 #container h1{
     font-size: 20px;
 }
+.figure{
+    width: 70%;
+    margin: 0 auto;
+}
+.figure a img{
+    width: 100%;
+}
 #footer{
     height: 2.5rem;
     margin: 0;
