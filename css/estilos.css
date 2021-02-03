@@ -44,6 +44,12 @@ body{
     width: 70%;
     margin: 0 auto;
 }
+.figure img{
+    width: 100%;
+}
+.saludo{
+    color: darksalmon;
+}
 .figure a img{
     width: 100%;
 }
